@@ -11,7 +11,7 @@ Fig. 1: Overview of the proposed RestoreGAN
 Fig. 2: DM results on PatternNet dataset
 <img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/full_class2.png" width="800"  alt="Fig. 3: DM results on UCMerced dataset;"/>
 Fig. 3: DM results on UCMerced dataset
-<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/full_class3.jpg" width="800"  alt="Fig. 4: DM results on WHU-RS19 dataset."/>
+<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/full_class3.png" width="800"  alt="Fig. 4: DM results on WHU-RS19 dataset."/>
 Fig. 4: DM results on WHU-RS19 dataset
 <img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/img_result1.jpg" width="800"  alt="Fig. 5: Overview of the proposed RestoreGAN"/>
 Fig. 5: Restoration results on the wastewater treatment plant image of the PatternNet dataset
