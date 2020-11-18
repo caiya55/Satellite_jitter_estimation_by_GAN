@@ -4,5 +4,8 @@ detection and compensation of satellite attitude jitter are crucial to reduce th
 the usefulness and effectiveness of GAN for jitter detection, the proposed GAN are trained on part of PatternNet dataset and tested on three popular remote sensing datasets along with deformed Yaogan-26 satellite image. Several experiments show that the proposed models provide competitive results compared to other methods. The proposed GAN reveals the huge potential of GAN-based methods for the analysis of attitude jitter from remote sensing images.
 
 
+
+<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/deform.png" width="200"  alt="图片描述文字"/>
+
 ![image](https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/deform.png)
 Fig. 1: Overview of the proposed RestoreGAN
