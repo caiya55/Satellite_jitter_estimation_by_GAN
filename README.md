@@ -5,7 +5,7 @@ the usefulness and effectiveness of GAN for jitter detection, the proposed GAN a
 
 
 
-<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/deform.png" width="200"  alt="图片描述文字"/>
+<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/deform.png" width="800"  alt="图片描述文字"/>
 
 ![image](https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/deform.png)
 Fig. 1: Overview of the proposed RestoreGAN
