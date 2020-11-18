@@ -6,8 +6,16 @@ the usefulness and effectiveness of GAN for jitter detection, the proposed GAN a
 
 
 <img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/deform.png" width="800"  alt="Fig. 1: Overview of the proposed RestoreGAN"/>
+Fig. 1: Overview of the proposed RestoreGAN
 <img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/full_class1.png" width="800"  alt="Fig. 2: DM results on PatternNet dataset;"/>
+Fig. 2: DM results on PatternNet dataset
 <img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/full_class2.png" width="800"  alt="Fig. 3: DM results on UCMerced dataset;"/>
-<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/full_class3.png" width="800"  alt="Fig. 4: DM results on WHU-RS19 dataset."/>
-<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/deform.png" width="800"  alt="Fig. 5: Overview of the proposed RestoreGAN"/>
-<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/deform.png" width="800"  alt="Fig. 6: Overview of the proposed RestoreGAN"/>
+Fig. 3: DM results on UCMerced dataset
+<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/full_class3.jpg" width="800"  alt="Fig. 4: DM results on WHU-RS19 dataset."/>
+Fig. 4: DM results on WHU-RS19 dataset
+<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/img_result1.jpg" width="800"  alt="Fig. 5: Overview of the proposed RestoreGAN"/>
+Fig. 5: Restoration results on the wastewater treatment plant image of the PatternNet dataset
+<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/img_result2.jpg" width="800"  alt="Fig. 5: Overview of the proposed RestoreGAN"/>
+Fig. 6: Restoration results on the building image of the UCMerced dataset
+<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/img_result3.jpg" width="800"  alt="Fig. 6: Overview of the proposed RestoreGAN"/>
+Fig. 7: Restoration results on the industrial image of the WH-RSU19 dataset
