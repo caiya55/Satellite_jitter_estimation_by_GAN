@@ -5,7 +5,10 @@ the usefulness and effectiveness of GAN for jitter detection, the proposed GAN a
 
 
 
-<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/deform.png" width="800"  alt="图片描述文字"/>
-
-![image](https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/deform.png)
-Fig. 1: Overview of the proposed RestoreGAN
+<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/deform.png" width="800"  alt="Fig. 1: Overview of the proposed RestoreGAN"/>
+<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/full_class1.png" width="800"  alt="Fig. 2: DM results on PatternNet dataset;"/>
+<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/full_class2.png" width="800"  alt="Fig. 3: DM results
+on UCMerced dataset;"/>
+<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/full_class3.png" width="800"  alt="Fig. 4: DM results on WHU-RS19 dataset."/>
+<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/deform.png" width="800"  alt="Fig. 5: Overview of the proposed RestoreGAN"/>
+<img src="https://github.com/caiya55/Satellite_jitter_estimation_by_GAN/blob/main/Images/deform.png" width="800"  alt="Fig. 6: Overview of the proposed RestoreGAN"/>
